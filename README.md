@@ -1,1 +1,1 @@
-É só pra ler mesmo.
+Exercício de Programação Web sobre Plantas Carnívoras.
